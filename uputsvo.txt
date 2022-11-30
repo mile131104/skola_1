@@ -1,0 +1,9 @@
+git clone url (klonira folder na racunaru)
+===================
+
+git add . (dodaj sve)
+git commit -m "msg" (potvrda i izmena)
+git push (slanje izmena na github server)
+=========================================
+
+git pull (preuzimanje novih izmena - repozitorijum vec postoji na racunaru)
