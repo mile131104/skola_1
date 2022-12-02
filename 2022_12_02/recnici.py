@@ -101,3 +101,4 @@ for (auta, detalji) in automobili.items():
         print(f"{a.capitalize()}: {vrednost}")
     print("----------------------")
 
+
