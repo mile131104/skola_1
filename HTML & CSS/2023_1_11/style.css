@@ -1,0 +1,33 @@
+/*body {
+    background-color: aquamarine;
+    color: red;
+}
+h1 {
+    color: green;
+}
+.poseban {
+    color: purple;
+    font-weight: 700;
+}
+.wrapperr {
+    color: brown;
+}
+#drugi {
+    color: blue;
+}
+*/
+.wrapper {
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    /*box-sizing: border-box;
+    */
+    border: 5px solid blue;
+    margin: 50px;
+}
+.bottom {
+    background-color: limegreen;
+    padding: 30px;
+    /*width: 300px;
+    */
+}
