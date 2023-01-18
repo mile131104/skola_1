@@ -1,0 +1,39 @@
+body {
+    background: #C96;
+    margin: 0;
+}
+.wrapper {
+    background-color: #FFF;
+    width: 950px;
+    padding: 15px;
+    margin: 20px auto 0;
+}
+.header {
+    background-color: green;
+    height: 150px;
+    margin-bottom: 15px;
+}
+.nav {
+    background-color: gray;
+    height: 40px;
+    margin-bottom: 15px;
+}
+.central {
+    display: flex;
+    justify-content: space-between;
+}
+.main {
+    background-color: silver;
+    flex-basis: 660px;
+    height: 150px;
+}
+.sidebar {
+    background-color: coral;
+    flex-basis: 280px;
+    height: 150px;
+}
+.footer {
+    background-color: purple;
+    height: 40px;
+    margin-top: 15px;
+}
