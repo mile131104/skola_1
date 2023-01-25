@@ -1,0 +1,46 @@
+body {
+    background: #C96;
+    margin: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+}
+.wrapper {
+    background-color: #FFF;
+    width: 950px;
+    padding: 15px;
+    margin: 20px auto 0;
+}
+.header {
+    background-color: green;
+    height: 150px;
+    margin-bottom: 15px;
+}
+.nav {
+    background-color: gray;
+    height: 40px;
+    margin-bottom: 15px;
+}
+.central {
+    display: flex;
+    justify-content: space-between;
+}
+.main {
+    flex-basis: 660px;
+}
+.sidebar {
+    flex-basis: 280px;
+}
+.footer {
+    background-color: purple;
+    height: 40px;
+    margin-top: 15px;
+}
+.imgright {
+    float: right;
+    margin: 0 0 6px 20px;
+}
+.blok {
+    border: 1px solid #cc888c;
+    padding: 10px;
+    margin-bottom: 15px;
+}
