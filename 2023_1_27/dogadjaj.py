@@ -66,7 +66,7 @@ sluzba.posalji_obavestenje("Promena termina predavanja")
 sluzba.ukloni_preplatnika(kor1)
 sluzba.posalji_obavestenje("Promena termina predavanja")
 
-# pregled trenutnih pretplatnika
-for korisnik in sluzba.pretplatnici:
-    print(korisnik)
+# # pregled trenutnih pretplatnika
+# for korisnik in sluzba.pretplatnici:
+#     print(korisnik)
 
